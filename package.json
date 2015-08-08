@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "description": "PlayGround",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Alvernhe (only the responsive part)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "immutable": "~3.7.1",
+    "benchmark": "~1.0.0"
+  }
+}
