@@ -3,9 +3,9 @@ var fs = require('fs')
 
 var suite = new Suite
 
-console.log(deffered);
+//console.log(deffered);
 
-return;
+//return;
 suite.add('deffered.resolve()', function(deferred) {
   deferred.resolve()
 }, {defer: true})
